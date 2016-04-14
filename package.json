@@ -1,0 +1,16 @@
+{
+  "name": "10_youtube_api_example",
+  "version": "1.0.0",
+  "description": "An example of how to use the googleapis/youtube api",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "clbo",
+  "license": "ISC"
+}
